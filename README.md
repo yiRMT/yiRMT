@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## My Website
 
-[yiRMT.vercel.app](https://yirmt.vercel.app)
+[yiwashita.com](https://yiwashita.com)
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
