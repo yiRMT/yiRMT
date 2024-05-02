@@ -35,3 +35,21 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiRMT&layout=compact&hide=tex&theme=radical" />
 </a>
+
+## Academic Affiliation
+| Term              | Affliation                                                           |
+|:------------------|:---------------------------------------------------------------------|
+| 2023.10 - Present |	Department of Informatics, University of Kaiserslautern-Landau (RPTU)|
+| 2023.04	- Present | Graduate School of Informatics, Osaka Metropolitan University (OMU)  |
+| 2021.09	- Present | Intelligence Media Processing Research Group                         |
+| 2021.04	- 2023.03 | College of Engineering, Osaka Prefecture University (OPU)            |
+
+## Work Experiences
+| Term              | Role, Affliation                                                           |
+|:------------------|:----------------------------------------------------------------------|
+| 2024.02	-	Present | Software Engineer, Affectify Inc.                                     |
+| 2023.09	-	Present | Internship, German Research Center for Artificial Intelligence (DFKI) |
+| 2023.09	-	2023.09 | Internship, Rakuten Group, Inc.                                       |
+| 2023.08	-	2023.09 | Internship, freee K.K.                                                |
+| 2023.03	-	2023.03 | Internship, German Research Center for Artificial Intelligence (DFKI) |
+| 2021.09	-	Present | Server Administrator, Intelligence Media Processing Research Group    |
