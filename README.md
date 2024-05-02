@@ -37,19 +37,19 @@ Here are some ideas to get you started:
 </a>
 
 ## Academic Affiliation
-| Term              | Affliation                                                           |
-|:------------------|:---------------------------------------------------------------------|
-| 2023.10 - Present |	Department of Informatics, University of Kaiserslautern-Landau (RPTU)|
-| 2023.04	- Present | Graduate School of Informatics, Osaka Metropolitan University (OMU)  |
-| 2021.09	- Present | Intelligence Media Processing Research Group                         |
-| 2021.04	- 2023.03 | College of Engineering, Osaka Prefecture University (OPU)            |
+| Term              | Affliation                                                                                                         |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------|
+| 2023.10 - Present |	[Department of Informatics, University of Kaiserslautern-Landau (RPTU)](https://rptu.de/en)                        |
+| 2023.04	- Present | [Graduate School of Informatics, Osaka Metropolitan University (OMU)](https://www.omu.ac.jp/i/en/)                 |
+| 2021.09	- Present | [Intelligence Media Processing Research Group](https://imlab.jp/index-e.html)                                      |
+| 2021.04	- 2023.03 | [College of Engineering, Osaka Prefecture University (OPU)](https://www.osakafu-u.ac.jp/en/academics/colleges/ce/) |
 
 ## Work Experiences
-| Term              | Role, Affliation                                                           |
-|:------------------|:----------------------------------------------------------------------|
-| 2024.02	-	Present | Software Engineer, Affectify Inc.                                     |
-| 2023.09	-	Present | Internship, German Research Center for Artificial Intelligence (DFKI) |
-| 2023.09	-	2023.09 | Internship, Rakuten Group, Inc.                                       |
-| 2023.08	-	2023.09 | Internship, freee K.K.                                                |
-| 2023.03	-	2023.03 | Internship, German Research Center for Artificial Intelligence (DFKI) |
-| 2021.09	-	Present | Server Administrator, Intelligence Media Processing Research Group    |
+| Term              | Role, Organization name                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| 2024.02	-	Present | Software Engineer, [Affectify Inc.](https://affectify.jp/)                                          |
+| 2023.09	-	Present | Internship, [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) |
+| 2023.09	-	2023.09 | Internship, [Rakuten Group, Inc.](https://global.rakuten.com/corp)                                  |
+| 2023.08	-	2023.09 | Internship, [freee K.K.](https://corp.freee.co.jp/en)                                               |
+| 2023.03	-	2023.03 | Internship, [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web) |
+| 2021.09	-	Present | Server Administrator, [Intelligence Media Processing Research Group](https://imlab.jp/index-e.html) |
