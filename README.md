@@ -1,6 +1,6 @@
-# yiRMT / Yuichiro Iwashita
+# yiRMT
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/yiRMT/yiRMT/">
     <img src="https://komarev.com/ghpvc/?username=yiRMT" alt="yiRMT" />
   </a>
