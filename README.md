@@ -15,10 +15,10 @@
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=yiRMT&show_icons=true&count_private=true&theme=radical" />
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=yiRMT&show_icons=true&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiRMT&layout=compact&hide=tex&theme=radical" />
+   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiRMT&layout=compact&hide=tex&theme=transparent" />
 </a>
 
 ## Academic Affiliation
