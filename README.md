@@ -33,8 +33,8 @@
 | Term              | Role, Organization                                                                                                 |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------|
 | 2024.02	-	Present | Software Engineer, [Affectify Inc.](https://affectify.jp/)                                                         |
-| 2023.09	-	Present | Internship, [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web)                |
+| 2023.09	-	Present | Internship, [German Research Center for Artificial Intelligence GmbH (DFKI)](https://www.dfki.de/en/web)                |
 | 2023.09	-	2023.09 | Internship, [Rakuten Group, Inc.](https://global.rakuten.com/corp)                                                 |
 | 2023.08	-	2023.09 | Internship, [freee K.K.](https://corp.freee.co.jp/en)                                                              |
-| 2023.03	-	2023.03 | Internship, [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web)                |
+| 2023.03	-	2023.03 | Internship, [German Research Center for Artificial Intelligence GmbH (DFKI)](https://www.dfki.de/en/web)                |
 | 2021.09	-	Present | Server Administrator, [Intelligence Media Processing Research Group](https://imlab.jp/index-e.html)                |
