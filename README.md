@@ -1,4 +1,4 @@
-# yiRMT
+# yiRMT - Yuichiro Iwashita
 
 <p align="left">
   <a href="https://github.com/yiRMT/yiRMT/">
