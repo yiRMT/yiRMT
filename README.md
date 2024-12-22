@@ -24,16 +24,16 @@
 ## Academic Affiliation
 | Term              | Affliation                                                                                                         |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------|
-| 2023.10 - Present |	[Department of Informatics, University of Kaiserslautern-Landau (RPTU)](https://rptu.de/en)                        |
 | 2023.04	- Present | [Graduate School of Informatics, Osaka Metropolitan University (OMU)](https://www.omu.ac.jp/i/en/)                 |
 | 2021.09	- Present | [Intelligence Media Processing Research Group](https://imlab.jp/index-e.html)                                      |
+| 2023.10 - 2024.09 |	[Department of Informatics, University of Kaiserslautern-Landau (RPTU)](https://rptu.de/en)                        |
 | 2021.04	- 2023.03 | [College of Engineering, Osaka Prefecture University (OPU)](https://www.osakafu-u.ac.jp/en/academics/colleges/ce/) |
 
 ## Work Experiences
 | Term              | Role, Organization                                                                                                 |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------|
 | 2024.02	-	Present | Software Engineer, [Affectify Inc.](https://affectify.jp/)                                                         |
-| 2023.09	-	Present | Internship, [German Research Center for Artificial Intelligence GmbH (DFKI)](https://www.dfki.de/en/web)                |
+| 2023.09	-	2024.09 | Internship, [German Research Center for Artificial Intelligence GmbH (DFKI)](https://www.dfki.de/en/web)                |
 | 2023.09	-	2023.09 | Internship, [Rakuten Group, Inc.](https://global.rakuten.com/corp)                                                 |
 | 2023.08	-	2023.09 | Internship, [freee K.K.](https://corp.freee.co.jp/en)                                                              |
 | 2023.03	-	2023.03 | Internship, [German Research Center for Artificial Intelligence GmbH (DFKI)](https://www.dfki.de/en/web)                |
