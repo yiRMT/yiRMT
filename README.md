@@ -24,7 +24,7 @@
 ## Academic Affiliation
 | Term              | Affliation                                                                                                         |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------|
-| 2025.04 - Present |	[Department of Computer Science, University of Kaiserslautern-Landau (RPTU)](https://rptu.de/en)                   |
+| 2025.04 - Present |	PhD Student, [Department of Computer Science, RPTU University Kaiserslautern-Landau](https://rptu.de/en)           |
 | 2023.04	- 2025.03 | [Graduate School of Informatics, Osaka Metropolitan University (OMU)](https://www.omu.ac.jp/i/en/)                 |
 | 2021.09	- 2025.03 | [Intelligence Media Processing Research Group](https://imlab.jp/index-e.html)                                      |
 | 2023.10 - 2024.09 |	[Department of Computer Science, University of Kaiserslautern-Landau (RPTU)](https://rptu.de/en)                   |
@@ -34,8 +34,8 @@
 | Term              | Role, Organization                                                                                                 |
 |:------------------|:-------------------------------------------------------------------------------------------------------------------|
 | 2025.05	-	Present | Visiting Researcher, [DFKI Lab Japan](https://www.omu.ac.jp/orp/org/crc/dfkijp/index.html)                         |
-| 2025.04	-	Present | Ph.D. Researcher, [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/en/web)     |
-| 2024.02	-	Present | Software Engineer, [Affectify Inc.](https://affectify.jp/)                                                         |
+| 2025.04	-	Present | PhD Researcher, [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/en/web)       |
+| 2024.02	-	2025.03 | Software Engineer, [Affectify Inc.](https://affectify.jp/)                                                         |
 | 2023.09	-	2024.09 | Internship, [German Research Center for Artificial Intelligence (DFKI GmbH)](https://www.dfki.de/en/web)           |
 | 2023.09	-	2023.09 | Internship, [Rakuten Group, Inc.](https://global.rakuten.com/corp)                                                 |
 | 2023.08	-	2023.09 | Internship, [freee K.K.](https://corp.freee.co.jp/en)                                                              |
